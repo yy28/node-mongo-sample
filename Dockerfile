@@ -1,3 +1,3 @@
-FROM node:0.8-onbuild
+FROM node:5.4-onbuild
 
 EXPOSE 80
